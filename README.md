@@ -30,6 +30,7 @@ now you can run the script by using
 ```bash
 $ python CustomGrids.py
 ```
+if it doesn't return any error than it means it is working. Wait until script finish downloading. (Around 100mb)
 
 # Tips
 
