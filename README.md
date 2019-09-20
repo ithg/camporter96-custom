@@ -6,7 +6,7 @@ Google Drive Mirror (Official): https://bit.ly/gogwhite
 
 Patreon of Camporter96: https://www.patreon.com/quigonjinnah
 
-# Installation
+# Installation / Usage
 
 ## Step 1
 
