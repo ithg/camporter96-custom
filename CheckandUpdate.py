@@ -6,7 +6,7 @@ from urllib import parse
 
 
 def get_file_list():
-    url = "https://api.github.com/repos/babgozd/camporter96-custom/contents/Ready%20to%20use"
+    url = "https://api.github.com/repos/babgozd/camporter96-custom/contents/grid"
     data = requests.get(url)
     tmp_info = json.loads(data.text)
     # steam_dir=PATH
@@ -63,7 +63,7 @@ def pic_download():
         for i in list(str1):
             f_newpic = open(steam_dir+i, mode='wb')
             newi = parse.quote(i).replace("\+", "%20")
-            picurl = "https://raw.githubusercontent.com/babgozd/camporter96-custom/master/Ready%20to%20use/"+newi
+            picurl = "https://raw.githubusercontent.com/babgozd/camporter96-custom/master/grid/"+newi
             newpic = urllib.request.urlopen(picurl)
             f_newpic.write(newpic.read())
             f_newpic.flush()
