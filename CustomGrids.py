@@ -78,7 +78,8 @@ def pic_download():
 if __name__ == "__main__":
     pic_download()
     print("Github Page: https://github.com/babgozd/camporter96-custom")
-    print("Artworks: camporter96(https://www.reddit.com/user/camporter96)")    
+    print("Artworks: camporter96 (https://www.reddit.com/user/camporter96)")
+    print("Arrangement: djandDK (https://www.reddit.com/user/djandDK)") 
     print("Script: ithg (https://github.com/ithg)")
-    print("Repository: babgozd(https://github.com/babgozd)")
+    print("Repository: babgozd (https://github.com/babgozd)")
     os._exit(0)
