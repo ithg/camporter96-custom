@@ -22,4 +22,4 @@ $ python CheckandUpdate.py
 
 # Tips
 
-If you want to customize the script to using for your only one steam acount, just remove line 12 and comment on line 11, replace PATH to your own personal grid path.
+If you want to customize the script to use for your only one steam account, just remove line 12 and comment on line 11, replace PATH to your own personal grid path.
