@@ -1,3 +1,5 @@
+# created by https://github.com/ithg
+
 import requests
 import json
 import os
