@@ -8,16 +8,27 @@ Patreon of Camporter96: https://www.patreon.com/quigonjinnah
 
 # Installation
 
-## Step 1:
+## Step
 
+Download Python 3 https://www.python.org/downloads/ and proceed with advanced settings. Set installation folder to "C:/Python" to make things easier. While installing make sure you checked "add python to PATH" and "install pip".
+
+## Step
+
+Download CustomGrids.py and place it to C:/Python (where you installed Python)
+
+## Step
+
+Open cmd.exe and use
+```bash
+$ cd C:/Phyton
+```
+then
 ```bash
 $ pip install requests
 ```
-
-## Step 2:
-
+now you can run the script by using
 ```bash
-$ python CheckandUpdate.py
+$ python CustomGrids.py
 ```
 
 # Tips
