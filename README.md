@@ -7,7 +7,9 @@ Google Drive Mirror (Official): https://bit.ly/gogwhite
 Patreon of Camporter96: https://www.patreon.com/quigonjinnah
 
 Original work /u/camporter96
+
 Arrangement /u/djandDK
+
 Script @ithg
 
 # Installation / Usage
